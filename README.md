@@ -26,7 +26,7 @@ export FABRIC_CFG_PATH=${PWD}
 
 There are two scripts created for convenience.
 
-### startupnetwork.sh
+### bringupnetwork.sh
 This script brings up all the required containers and creates a channel. All the peer nodes in member organizations will join the channel. With this you can start working on chaincode part.
 
 ### teardownall.sh
